@@ -16,3 +16,7 @@ int main(){
    return 0;
    
 }
+
+int give1(){
+   return 1;
+   }
